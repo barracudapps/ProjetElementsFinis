@@ -1,0 +1,8 @@
+______________________________________________________
+FICHIER | LIGNE | A FAIRE
+------------------------------------------------------
+TSUNAMI |  124  | Vérifier les arguments des fonctions
+TSUNAMI |  138  | Ajout des intégrales de surface
+TSUNAMI |  146  | Ajout des intégrales de ligne
+TSUNAMI |  166  | Résolution du système (matrice inverse)
+FEM     |  370  | Passage des paramètres adaptés
